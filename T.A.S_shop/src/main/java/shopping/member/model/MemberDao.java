@@ -1,5 +1,7 @@
 package shopping.member.model;
 
-public class MemberDao {
+import shopping.common.model.SuperDao;
+
+public class MemberDao extends SuperDao {
 
 }
