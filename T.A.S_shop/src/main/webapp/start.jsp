@@ -12,6 +12,5 @@
 	response.sendRedirect( imsi );
 %>
 
-T.A.S.Shop
 </body>
 </html>
