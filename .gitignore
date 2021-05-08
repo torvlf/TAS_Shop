@@ -1,4 +1,7 @@
-/T.A.S_shop/
+
+# Created by https://www.toptal.com/developers/gitignore/api/windows,linux,eclipse,java,java-web
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,eclipse,java,java-web
+
 ### Eclipse ###
 .metadata
 bin/
@@ -134,3 +137,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,eclipse,java,java-web
