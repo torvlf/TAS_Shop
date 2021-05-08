@@ -11,5 +11,7 @@
 	String imsi = /* NoForm  + */ "main";
 	response.sendRedirect( imsi );
 %>
+
+T.A.S.Shop
 </body>
 </html>
