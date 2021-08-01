@@ -1,5 +1,7 @@
 package shopping.otheraddress.model;
 
-public class OtheraddressDao {
+import shopping.common.model.SuperDao;
+
+public class OtheraddressDao extends SuperDao{
 
 }

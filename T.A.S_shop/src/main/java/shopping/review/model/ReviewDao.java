@@ -1,5 +1,7 @@
 package shopping.review.model;
 
-public class ReviewDao {
+import shopping.common.model.SuperDao;
+
+public class ReviewDao  extends SuperDao{
 
 }

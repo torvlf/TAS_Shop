@@ -160,7 +160,8 @@
 						<p>
 							<a href="#" class="btn btn-primary py-2 px-4">Shop Now</a> <a
 								href="#" class="btn btn-white btn-outline-white py-2 px-4">
-								Read more </a>
+								Read more 
+							</a>
 						</p>
 					</div>
 				</div>

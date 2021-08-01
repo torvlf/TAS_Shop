@@ -1,5 +1,7 @@
 package shopping.reply.model;
 
-public class ReplyDao {
+import shopping.common.model.SuperDao;
+
+public class ReplyDao extends SuperDao {
 
 }
