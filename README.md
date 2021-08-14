@@ -41,7 +41,6 @@
  - Q&A 게시판 관리
 
 ## Tech Stack
-- Language : Java
-- DataBase: Oracle
-- IDE : Eclipes
+![image](https://user-images.githubusercontent.com/73814488/129438763-95aff4e1-2eb4-4417-9adf-0cfbec48c0d3.png)
+
  
